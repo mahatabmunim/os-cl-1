@@ -1,0 +1,5 @@
+class 1
+	1. Formating ki?
+	2.browser a run korbo kmne?
+	3.ver_dump ki?
+	
